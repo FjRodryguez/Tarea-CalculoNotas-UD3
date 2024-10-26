@@ -1,0 +1,17 @@
+{
+    "name": "test-clase/daw2",
+    "description": "Proyecto de pruebas para crear clases",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TestClase\\Daw2\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FJ"
+        }
+    ],
+    "require": {}
+}
